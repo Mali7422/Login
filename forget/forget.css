@@ -1,0 +1,21 @@
+html,body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Open Sans", sans-serif;
+    width: 100%;
+    height: 100%;
+}
+
+div {
+    min-width: 400px;
+    min-height: 150px;
+    background-color: #181818;
+    color: #fff;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
